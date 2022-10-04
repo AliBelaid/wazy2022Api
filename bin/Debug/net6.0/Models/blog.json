@@ -1,0 +1,111 @@
+[
+    {
+        "id": 115,
+        "author": "John Doe",
+        "comments": "3",
+        "content": "Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi.",
+        "date": "2020-05-28",
+        "slug": "sed-adipiscingsv-ornare.",
+        "title": "Sed adipiscingsv ornare.",
+        "type": "image",
+        "blog_categories": [
+            {
+                "name": "Hobbies",
+                "slug": "hobbies",
+                "pivot": {
+                    "blog_id": "115",
+                    "blog-category_id": "4"
+                }
+            },
+            {
+                "name": "Lifestyle",
+                "slug": "lifestyle",
+                "pivot": {
+                    "blog_id": "115",
+                    "blog-category_id": "1"
+                }
+            }
+        ],
+        "image": [
+            {
+                "width": "277",
+                "height": "170",
+                "url": "/uploads/post_1_211b3a89a7.jpg",
+                "pivot": {
+                    "related_id": "115",
+                    "upload_file_id": "503"
+                }
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "author": "John Doe",
+        "comments": "3",
+        "content": "Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh.",
+        "date": "2020-09-18",
+        "slug": "vivamus-vestibulum-nvstulla.",
+        "title": "Vivamus vestibulum nvstulla.",
+        "type": "image",
+        "blog_categories": [
+            {
+                "name": "Travel",
+                "slug": "travel",
+                "pivot": {
+                    "blog_id": "116",
+                    "blog-category_id": "3"
+                }
+            },
+            {
+                "name": "Lifestyle",
+                "slug": "lifestyle",
+                "pivot": {
+                    "blog_id": "116",
+                    "blog-category_id": "1"
+                }
+            }
+        ],
+        "image": [
+            {
+                "width": "277",
+                "height": "170",
+                "url": "/uploads/post_2_f77992431a.jpg",
+                "pivot": {
+                    "related_id": "116",
+                    "upload_file_id": "504"
+                }
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "author": "John Doe",
+        "comments": "3",
+        "content": "Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi.",
+        "date": "2020-05-28",
+        "slug": "praesent-placerat-rivsus.",
+        "title": "Praesent placerat rivsus.",
+        "type": "image",
+        "blog_categories": [
+            {
+                "name": "Lifestyle",
+                "slug": "lifestyle",
+                "pivot": {
+                    "blog_id": "117",
+                    "blog-category_id": "1"
+                }
+            }
+        ],
+        "image": [
+            {
+                "width": "277",
+                "height": "170",
+                "url": "/uploads/post_3_4875004a2a.jpg",
+                "pivot": {
+                    "related_id": "117",
+                    "upload_file_id": "505"
+                }
+            }
+        ]
+    }
+]
